@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-5-29: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20141231 at Fri May 29 18:11:06 2015
+ By Devin McCabe
+Copyright (c) 2015, Devin McCabe
+</metadata>
+<defs>
+<font id="affirm" horiz-adv-x="512" >
+  <font-face 
+    font-family="affirm"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 -64 512 448"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F103"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
+    <glyph glyph-name="uniF103" unicode="&#xf103;" 
+d="M256 -64c-141.307 0 -256 115.01 -256 256s114.693 256 256 256s256 -114.693 256 -256s-115.01 -256 -256 -256zM256 424.555c-128.316 0 -232.555 -104.238 -232.555 -232.555s104.238 -232.555 232.555 -232.555s232.555 104.238 232.555 232.555
+s-104.238 232.555 -232.555 232.555zM335.842 115.644v-0.316406h-46.5742v124.515l-86.8125 -110.258l-1.58398 -1.90039c-6.33691 -7.60449 -15.5244 -12.04 -25.9805 -12.3564h-1.2666h-40.2383l12.04 15.207l41.5049 52.5947l89.9805 113.742
+c6.33594 8.55469 17.4258 12.9902 29.1484 12.3564c17.1084 -1.90039 29.4648 -15.8418 29.7822 -32.6338v-160.95z" />
+    <glyph glyph-name="uniF102" unicode="&#xf102;" 
+d="M256 448c141.447 0 256 -114.553 256 -256s-114.553 -256 -256 -256s-256 114.553 -256 256s114.553 256 256 256zM290.864 111.979h48.8086v168.674c-0.332031 17.5986 -13.6133 32.208 -31.2109 34.2002c-12.2852 0.664062 -23.9072 -4.31641 -30.5479 -12.9492
+l-94.2979 -118.869l-43.4971 -55.1182l-12.6172 -15.9375h42.1689h1.32812c10.957 0.332031 20.5859 5.3125 27.2266 12.9492l1.66016 1.99219l90.9785 115.217v-130.158z" />
+  </font>
+</defs></svg>
